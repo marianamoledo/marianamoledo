@@ -1,6 +1,6 @@
 ## 🚀 **Languages and Tools:**
 
- #### 🛠 &nbsp;Tech Stack 
+ #### 🛠 &nbsp;Tech Stack:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
  ![Looker Studio](https://img.shields.io/badge/-DataStudio-05122A?style=flat&logo=GoogleDataStudio)&nbsp;
