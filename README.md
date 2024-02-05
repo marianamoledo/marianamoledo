@@ -3,6 +3,7 @@
  #### 🛠 &nbsp;Tech Stack:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
+ ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
  ![Looker Studio](https://img.shields.io/badge/-DataStudio-05122A?style=flat&logo=GoogleDataStudio)&nbsp;
  ![SQL](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=MicrosoftSQLServer)&nbsp;
  ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
@@ -26,7 +27,7 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
+ ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  
  #### 🌱 I'm learning:
  
