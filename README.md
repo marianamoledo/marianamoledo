@@ -11,7 +11,6 @@
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=Matplotlib&logoColor=black)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
