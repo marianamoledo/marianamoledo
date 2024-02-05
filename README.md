@@ -1,8 +1,8 @@
-
+# Sobre Mim
 
 👋 Olá! Eu sou Mariana Moledo, uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. No Excel, utilizo o Power Query para lidar com dados complexos. No SQL, tenho experiência em realizar consultas avançadas e otimizar operações com dados. No Power BI, busco criar relatórios e painéis, aplicando DAX para modelar dados e medidas, e também implementando políticas de segurança. Gosto de utilizar o Python para realizar automações de tarefas e para análise exploratória de dados, utilizando bibliotecas como NumPy, Pandas e Matplotlib. Além disso, tenho familiaridade com o Data Studio, utilizando-o para criar relatórios personalizados, conectando fontes de dados, criando gráficos e aplicando filtros.
 
-## 🚀 **Languages and Tools:**
+### 🚀 **Languages and Tools:**
 
  #### 🛠 &nbsp;Tech Stack:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
