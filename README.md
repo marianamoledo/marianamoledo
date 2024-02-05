@@ -17,7 +17,7 @@
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-black?style=flat&logo=microsoft-word&logoColor=white)
  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-black?style=flat&logo=microsoft-powerpoint&logoColor=white)
-
+ ![SalesForce](https://img.shields.io/badge/SalesForce-black?style=flat&logo=salesforce&logoColor=white)
  
  
  #### 📚 Basic knowledge:
