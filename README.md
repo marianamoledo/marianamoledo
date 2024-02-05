@@ -2,9 +2,10 @@
 
 👋 Olá! Eu sou Mariana Moledo, uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. No Excel, utilizo o Power Query para lidar com dados complexos. No SQL, tenho experiência em realizar consultas avançadas e otimizar operações com dados. No Power BI, busco criar relatórios e painéis, aplicando DAX para modelar dados e medidas, e também implementando políticas de segurança. Gosto de utilizar o Python para realizar automações de tarefas e para análise exploratória de dados, utilizando bibliotecas como NumPy, Pandas e Matplotlib. Além disso, tenho familiaridade com o Data Studio, utilizando-o para criar relatórios personalizados, conectando fontes de dados, criando gráficos e aplicando filtros.
 
-### 🚀 **Languages and Tools:**
+---
+### 🛠 **Linguagens e Ferramentas:**
 
- #### 🛠 &nbsp;Tech Stack:
+ #### &nbsp;Tech Stack:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
  ![Looker Studio](https://img.shields.io/badge/-DataStudio-black?style=flat&logo=GoogleDataStudio)&nbsp;
@@ -21,15 +22,13 @@
  ![SalesForce](https://img.shields.io/badge/SalesForce-black?style=flat&logo=salesforce&logoColor=white)
  
  
- #### 📚 Basic knowledge:
- 
- ![LaTeX](https://img.shields.io/badge/latex-black?style=flat&logo=latex&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ #### Tenho conhecimento básico:
+
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  
- #### 🌱 I'm learning:
+ ####  Estou aprendendo:
  
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
@@ -37,6 +36,15 @@
  ![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=Keras&logoColor=white)
 
  ---
+<div id="header" align="center">
+  <a href="https://www.linkedin.com/in/mariana-moledo-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marianamoledomoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/marianamoledo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Portfolio&logoColor=white" alt="Portfólio Badge" width="78">
+</a>
+
+---
 
 <div id="header" align="center">
 
