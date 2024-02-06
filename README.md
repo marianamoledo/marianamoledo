@@ -7,8 +7,9 @@
 
 <div id="header" align="center">
  
- [![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=Portifolio_Power_BI_SQL&title_color=fff&icon_color=f9f9f9&bg_color=151515&text_color=9f9f9f)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
- 
+[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=Portifolio_Power_BI_SQL&title_color=fff&icon_color=f9f9f9&bg_color=151515&text_color=9f9f9f)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
+[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=tcc_mba_cd&title_color=fff&icon_color=f9f9f9&bg_color=151515&text_color=9f9f9f)](https://github.com/marianamoledo/tcc_mba_cd)
+
 </div>
 
 ---
