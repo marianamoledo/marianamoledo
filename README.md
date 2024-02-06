@@ -7,8 +7,8 @@
 
 <div id="header" align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
 </div>
 
 ---
