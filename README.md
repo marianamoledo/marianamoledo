@@ -7,8 +7,7 @@
 
 <div id="header" align="center">
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
+ [![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=Portifolio_Power_BI_SQL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
 </div>
 
 ---
@@ -49,7 +48,7 @@
 ### **Estatísticas:**
 <div id="header" align="center">
 
-<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamoledo&hide=html&layout=compact&theme=dark" /></td> <a href="https://github.com/marianamoledo/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamoledo&show_icons=true&theme=dark&include_commits=true"/>
+<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamoledo&hide=html&layout=compact&theme=tokyonight" /></td> <a href="https://github.com/marianamoledo/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamoledo&show_icons=true&layout=compact&theme=tokyonight&include_commits=true"/>
 </a>
 
 <div id="header" align="center">
