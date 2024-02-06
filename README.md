@@ -2,6 +2,10 @@
 
 👋 Olá! Eu sou Mariana Moledo, uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. No Excel, utilizo o Power Query para lidar com dados complexos. No SQL, tenho experiência em realizar consultas avançadas e otimizar operações com dados. No Power BI, busco criar relatórios e painéis, aplicando DAX para modelar dados e medidas, e também implementando políticas de segurança. Gosto de utilizar o Python para realizar automações de tarefas e para análise exploratória de dados, utilizando bibliotecas como NumPy, Pandas e Matplotlib. Além disso, tenho familiaridade com o Data Studio, utilizando-o para criar relatórios personalizados, conectando fontes de dados, criando gráficos e aplicando filtros.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-moledo-moreira/)](https://www.linkedin.com/in/mariana-moledo-moreira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=marianamoledomoreira@gmail.com)](marianamoledomoreira@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F??style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marianamoledo)
+
 ---
 ### **Principais Repositórios:**
 
@@ -51,12 +55,4 @@
 <div id="header" align="center">
 
 <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamoledo&hide=html&layout=compact&theme=tokyonight" /></td> <a href="https://github.com/marianamoledo/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=marianamoledo&show_icons=true&layout=compact&theme=tokyonight&include_commits=true"/>
-</a>
-
-<div id="header" align="center">
-  <a href="https://www.linkedin.com/in/mariana-moledo-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marianamoledomoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/marianamoledo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Portfolio&logoColor=white" alt="Portfólio Badge" width="78">
 </a>
