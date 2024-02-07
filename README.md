@@ -7,19 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F??style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marianamoledo)
 
 ---
-### ⚡ **Principais Repositórios:**
 
-<div id="header" align="center">
- 
-[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=Portifolio_Power_BI_SQL&title_color=fff&icon_color=f9f9f9&bg_color=151515)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
-[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=tcc_mba_cd&title_color=fff&icon_color=f9f9f9&bg_color=151515)](https://github.com/marianamoledo/tcc_mba_cd)
-
-</div>
-
----
-### **Linguagens e Ferramentas:**
-
- #### Tecnologias utilizadas diariamente:
+ #### Converse comigo sobre:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
  ![Looker Studio](https://img.shields.io/badge/-DataStudio-black?style=flat&logo=GoogleDataStudio)&nbsp;
@@ -48,6 +37,16 @@
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=white)
  ![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=Keras&logoColor=white)
+ 
+---
+### ⚡ **Principais Repositórios:**
+
+<div id="header" align="center">
+ 
+[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=Portifolio_Power_BI_SQL&title_color=fff&icon_color=f9f9f9&bg_color=151515)](https://github.com/marianamoledo/Portifolio_Power_BI_SQL)
+[![Cartão do Readme](https://github-readme-stats.vercel.app/api/pin/?username=marianamoledo&repo=tcc_mba_cd&title_color=fff&icon_color=f9f9f9&bg_color=151515)](https://github.com/marianamoledo/tcc_mba_cd)
+
+</div>
 
 ---
 
