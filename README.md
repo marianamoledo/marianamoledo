@@ -19,7 +19,7 @@
 ---
 ### **Linguagens e Ferramentas:**
 
- #### &nbsp;Tech Stack:
+ #### Tecnologias utilizadas diariamente:
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
  ![Looker Studio](https://img.shields.io/badge/-DataStudio-black?style=flat&logo=GoogleDataStudio)&nbsp;
