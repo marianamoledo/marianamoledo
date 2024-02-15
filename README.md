@@ -2,6 +2,23 @@
 
 👋 Olá! Eu sou Mariana Moledo, formada em Licenciatura em Matemática e uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. No Excel, utilizo o Power Query para lidar com dados complexos. No SQL, tenho experiência em realizar consultas avançadas e otimizar operações com dados. No Power BI, busco criar relatórios e painéis, aplicando DAX para modelar dados e medidas, e também implementando políticas de segurança. Gosto de utilizar o Python para realizar automações de tarefas e para análise exploratória de dados, utilizando bibliotecas como NumPy, Pandas e Matplotlib. Além disso, tenho familiaridade com o Data Studio, utilizando-o para criar relatórios personalizados, conectando fontes de dados, criando gráficos e aplicando filtros.
 
+Minha Jornada:
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Banco Itaú            :active,, 2016-02-01,2017-04-01
+Brasil Center         :active,, 2018-04-01,2021-09-01
+Driven Education (Responde Aí)           :active,, 2021-07-01,2024-12-01
+
+section Professor
+Bolsista de Iniciação à Docência – PIBID       :active,, 2015-03-01,2018-02-01
+Responde Aí       :active,, 2019-09-01,2021-07-01
+```
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-moledo-moreira/)](https://www.linkedin.com/in/mariana-moledo-moreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianamoledomoreira@gmail.com)](mailto:marianamoledomoreira@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F??style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marianamoledo)
