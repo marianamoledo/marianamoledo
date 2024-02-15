@@ -15,7 +15,9 @@ section Professor
 Bolsista de Iniciação à Docência – PIBID       :active,, 2015-03-01,2018-02-01
 Responde Aí       :active,, 2019-09-01,2021-07-01
 ```
-👋 Olá! Eu sou Mariana Moledo, formada em Licenciatura em Matemática e uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. No Excel, utilizo o Power Query para lidar com dados complexos. 
+👋 Olá! Eu sou Mariana Moledo, formada em Licenciatura em Matemática e uma entusiasta de dados apaixonada por análise de dados! Ao longo da minha jornada, desenvolvi habilidades abrangentes em diferentes áreas relacionadas a dados. 
+
+No Excel, utilizo o Power Query para lidar com dados complexos. 
 
 No SQL, tenho experiência em realizar consultas avançadas e otimizar operações com dados. 
 
