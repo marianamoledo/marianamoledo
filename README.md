@@ -1,11 +1,10 @@
 # Sobre Mim
 
-Minha Jornada:
 ```mermaid
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title Minha Jornada
 
 section Carreira
 Banco Itaú            :active,, 2016-02-01,2017-04-01
